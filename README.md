@@ -1,4 +1,4 @@
-# projeto_joao
+# projeto-joao
 
 Este projeto consiste em uma página de apresentação pessoal (landing page) desenvolvida utilizando apenas HTML e CSS, com foco em design moderno, responsividade e boa experiência do usuário.
 
